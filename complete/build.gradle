@@ -39,6 +39,7 @@ dependencies {
     compile 'org.springframework:spring-core:3.2.3.RELEASE'
     compile 'org.springframework:spring-webmvc:3.2.3.RELEASE'
     compile 'com.jayway.jsonpath:json-path:0.8.1'
+    compile 'com.google.gdata:core:1.47.1'
 
     compile 'org.slf4j:slf4j-api:1.7.5'
     runtime 'org.slf4j:slf4j-jdk14:1.7.5'
