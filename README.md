@@ -1,4 +1,4 @@
-this is a Pure spring restful web service in order to build and deploy execute:
+this is a Pure spring restful web service i take the code from spring rest tutorial (https://github.com/spring-guides/tut-rest) in order to build and deploy execute:
 
 ```sh
 $ ./gradlew tomcatRunWar
